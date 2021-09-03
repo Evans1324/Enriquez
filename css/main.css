@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.spacer {
+  aspect-ratio: 1920/1080;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.layer2 {
+  background: url("../img/blob-scene-haikei.svg");
+}/*# sourceMappingURL=main.css.map */
